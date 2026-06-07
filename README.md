@@ -45,7 +45,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/Himanshu-Sharma005/student-performance-analyzer
 cd YOUR-REPO
 ```
 
